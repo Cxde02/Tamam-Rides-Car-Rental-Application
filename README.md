@@ -12,5 +12,7 @@ Tamam Rides, the car rental application, originated as a collaborative effort wi
   <li><strong>Interactive Chatbot:</strong> Enhancing user experience, Tamam Rides incorporates a fully operational chatbot. This feature serves as a reliable customer support resource, addressing queries and providing assistance in real-time.</li>
 </ol>
 
-##### In the `android/app/google-services.json` file, replace 'xxx' with your API key to configure the Google Maps and Firebase services.
+##### To configure Google Maps Services, replace 'xxx' with your own API key in the `android/app/src/main/AndroidManifest.xml` and `android/app/google-services.json` files.
+##### To configure Firebase Services, replace 'xxx' with your own API key in the `android/app/google-services.json` file.
+
  
